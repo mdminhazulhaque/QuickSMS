@@ -11,7 +11,7 @@ A SMS sender application with preset templates
 
 ## Features ##
 * Press any button to add that text to SMS body
-* Swipe left or right to browse hiddem words
+* Swipe left or right to browse hidden words
 * Change the recipient number, it will be saved as preferences
 * Hit Clear menu from action bar to reset SMS body
 * SMS send and delivery intent notification (Toast)
