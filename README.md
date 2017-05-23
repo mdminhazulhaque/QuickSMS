@@ -4,7 +4,7 @@ QuickSMS
 A SMS sender application with preset templates
 
 ## Screenshot ##
-![QuickSMS] (http://i.imgur.com/UfjQbYe.png)
+![QuickSMS](http://i.imgur.com/UfjQbYe.png)
 
 ## Requirment ##
 * Android 2.3+
